@@ -19,7 +19,7 @@ Repomuzu açık kaynak olarak sizinle paylaşıyoruz. Haydi yazılımı çalış
 
 ```shell
 
-git clone https://github.com/yunusemre2334/yolov8
+git clone https://github.com/openytu/Yolov8_advance_speed_estimation
 
 ```
 
