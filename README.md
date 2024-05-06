@@ -5,11 +5,16 @@ Herkese merhabalar, bugün Yolov8 ile ileri seviye hız tespiti uygulaması ger�
 
 Daha önce Yolov8 ile nesne tespiti uygulaması gerçekleştirdiyseniz ultralytics ile birkaç satırda bu işi halledebildiğinizi görmüşsünüzdür. Peki bunun arka planını hiç merak ettiniz mi?
 İşte biz de OpenYTU ekibi olarak kendi hız ve yön tespitini içeren kütüphanelerimizi yazdık. Sadece üç satırda yani:
+
+```shell
+
 import Tracker
 tracker = Tracker()
 frame = tracker(model, frame)
 
-ilgili satırlarla hız tespiti yaptık. İşte sanki ultralyticsin hız tespit metodu baştan yazılmış gibi :)
+```
+
+İlgili satırlarla hız tespiti yaptık. İşte sanki ultralyticsin hız tespit metodu baştan yazılmış gibi :)
 Repomuzu açık kaynak olarak sizinle paylaşıyoruz. Haydi yazılımı çalıştırmak için öncelikle repomuzu klonlayalım:
 
 ```shell
