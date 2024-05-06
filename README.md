@@ -23,7 +23,16 @@ git clone https://github.com/openytu/Yolov8_advance_speed_estimation
 
 ```
 
-Bunu çalıştırdıktan sonra gelin kodumuzu çalıştıralım
+Adrese gidelim
+
+```shell
+
+cd Yolov8_advance_speed_estimation
+
+```
+
+
+Son olarak gelin kodumuzu çalıştıralım
 
 
 ```shell
